@@ -1,0 +1,17 @@
+jupyterlab
+ipykernel
+numpy
+scikit-learn
+scikit-image
+matplotlib
+seaborn
+torch
+pandas
+tqdm
+scipy
+pillow
+torchvision
+tabulate
+emcee
+lmfit
+corner
