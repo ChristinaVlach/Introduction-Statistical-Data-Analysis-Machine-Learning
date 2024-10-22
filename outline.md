@@ -9,7 +9,6 @@
 | Lecture 5      | Classification (Machine Learning Methods) | 4     |
 | Lecture 6      | Unsupervised Learning                     | 6     |
 
-
 ## Lecture Details
 
 ### Lecture 1: Introduction and Setup (1 hour)
@@ -44,43 +43,29 @@
 - Practical Example: Fitting a curve
 - Practical Example: Model Protein Data
 
-### Lecture 5: Classification (Linear Methods) (2 hours)
+### Lecture 4: Classification (Linear Methods) (2 hours)
 
-- **Linear Classification**
-  - Logistic regression
-  - Linear discriminant analysis
+- Introduction and Motivation
+- Logistic Regression
+- Softmax Regression
+- Practical Example: MNIST binary classification
+- Practical Example: MNIST digits classification
 
-### Lecture 6: Classification (Machine Learning Methods) (3 hours)
+### Lecture 5: Classification (Machine Learning Methods) (4 hours)
 
-- **Convolutional Neural Networks (CNNs)**
+- Introduction and Motivation
+- Convolution
+- Receptive Fields
+- How to Build a Convolutional Neural Network
+- LeNet
+- Practical Example: MNIST digits classification
 
 ## Unsupervised Learning (6 hours)
 
-### Lecture 8: Principal Component Analysis (PCA) (3 hours)
+### Lecture 6: Dimensionality reduction (6 hours)
 
-- **Dimensionality Reduction**
-  - PCA
-  - t-SNE, UMAP
-  - PCA on NN representations
-
-### Lecture 9: Clustering Techniques (3 hours)
-
-- **Introduction to Clustering**
-  - K-means
-  - Hierarchical clustering
-  - Density Peak
-- **Clustering on NN representations**
-  - DBSCAN
-  - Density Peak
-
-### Lecture 10: Independent Component Analysis (ICA) (3 hours)
-
-- **Introduction to ICA**
-
-### Lecture 11: Machine Learning in Unsupervised Learning (3 hours)
-
-- **Introduction to Large Language Models (LLMs)**
-  - Transformer architecture
-  - Pre-training and fine-tuning
-- **Practical Example**
-  - Using protein sequences for LLM-based predictions
+- Introduction and Motivation
+- Principal Component Analysis
+- UMAP
+- Neural Networks as Feature Extractors
+- Distance Metrics and Similarity on Extracted Features
