@@ -16,3 +16,4 @@ emcee
 lmfit
 corner
 umap-learn
+medmnist
